@@ -20,7 +20,7 @@ You also need these additional packages:
 * tqdm
 
 
-## Download Datasets
+## Datasets
 
 co-authorship hypergraphs
 * Cora
@@ -31,7 +31,16 @@ co-citation hypergraphs
 * Citeseer
 * Cora
 
+other hypergraphs
+*20newsgroup
+*ModelNet40
+*NTU2012
+*Mushroom
 
+## Baselines
+UniGNN, HyperGCN, HyperSAGE, and HGNN  can be found   at [https://github.com/OneForward/UniGNN](https://github.com/OneForward/UniGNN).
+AllSetTransformer can be found at [https://github.com/jianhao2016/AllSet](https://github.com/jianhao2016/AllSet).
+SimGRACE can be found at [https://github.com/junxia97/SimGRACE](https://github.com/junxia97/SimGRACE).
 
 ## Semi-supervised Hypernode Classification
 
