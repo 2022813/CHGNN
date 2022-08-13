@@ -32,10 +32,10 @@ co-citation hypergraphs
 * Cora
 
 other hypergraphs
-*20newsgroup
-*ModelNet40
-*NTU2012
-*Mushroom
+* 20newsgroup
+* ModelNet40
+* NTU2012
+* Mushroom
 
 ## Baselines
 UniGNN, HyperGCN, HyperSAGE, and HGNN  can be found   at [https://github.com/OneForward/UniGNN](https://github.com/OneForward/UniGNN).
